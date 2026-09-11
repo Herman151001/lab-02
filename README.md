@@ -8,7 +8,7 @@ CCID:harmanj6
 
 References and Resources
 
-N/A
+https://developer.android.com/reference/kotlin/androidx/compose/foundation/clickable.modifier
 
 Verbal Collaboration
 
