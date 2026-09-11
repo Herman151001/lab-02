@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                     CityListScreen(
                         cities = cityRepository.cities,
                         onAddCity = {cityRepository.addCity( it )},
-                        {cityRepository.dltcity( it )},
+                        onDltCity = {cityRepository.dltcity( it )},
                         modifier = Modifier.padding(innerPadding)
 
 
